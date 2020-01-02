@@ -1,0 +1,11 @@
+﻿Tehtava,Kesto paivina,Edeltava tehtava,Mahdollinen alihankkija
+pohjatyot,35,,"Jouni, Jaakko"
+puusepantyot,15,"pohjatyot","Jouni,Jimi"
+putkityot,40,"pohjatyot","Jaakko"
+sisatyot,15,"pohjatyot","Jouni,Jaakko"
+kattotyot,5,"puusepantyot","Jouni,Jaakko"
+maalaus,10,"sisatyot","Jaakko,Jimi"
+ikkunatyot,5,"kattotyot","Jouni,Jimi"
+julkisivu,10,"kattotyot, putkityot","Jouni,Jaakko"
+pihatyot,5,"kattotyot, putkityot","Jouni,Jaakko,Jimi"
+muutto,5,"ikkunatyot, julkisivu, pihatyot, maalaus","Jouni,Jimi"
